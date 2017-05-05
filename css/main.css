@@ -1,3 +1,29 @@
 /*
  * Estilos de tu proyecto
  */
+ #links {
+   background-color: black;
+   color: white;
+   padding: 10px 10px 0px 10px;
+   position: fixed;
+   top: 0;
+   left: 0;
+   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-weight: 700;
+   font-size: 1.6em;
+ }
+ .menu {
+   display: inline-block;
+   float: left;
+   margin-top: 10px;
+   padding: 10px;
+   list-style: none;
+   height: 100%;
+   text-align: center;
+   font-size: 0.5em;
+   vertical-align: middle;
+ }
+.menu:hover{
+  background-color: #18BC9C;
+
+   }
